@@ -12,7 +12,7 @@
     <Company>TensionDev</Company>
     <Product>TensionDev.Maritime.Navigation</Product>
     <Description>A project to provide tools for computation for Maritime Navigation.</Description>
-    <Copyright>Copyright (c) TensionDev 2021</Copyright>
+    <Copyright>Copyright (c) TensionDev 2021 - 2026</Copyright>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/TensionDev/Navigation</PackageProjectUrl>
     <RepositoryUrl>https://github.com/TensionDev/Navigation</RepositoryUrl>

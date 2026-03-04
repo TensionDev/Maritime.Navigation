@@ -43,7 +43,7 @@ namespace TensionDev.Maritime.Navigation
         /// <param name="startPosition">Geodetic Start Position</param>
         /// <param name="endPosition">Geodetic End Position</param>
         /// <returns>Distance in Metres</returns>
-        public static Double DistanceFromPoint(GeographicCoordinateSystem  startPosition, GeographicCoordinateSystem endPosition)
+        public static Double DistanceFromPoint(GeographicCoordinateSystem startPosition, GeographicCoordinateSystem endPosition)
         {
             Double phi = endPosition.LatitudeDecimalRadians - startPosition.LatitudeDecimalRadians;
             Double lambda = endPosition.LongitudeDecimalRadians - startPosition.LongitudeDecimalRadians;
