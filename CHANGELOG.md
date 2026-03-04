@@ -8,21 +8,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Changed folder structure to match the TensionDev.Maritime.Navigation namespace.
+
 
 ## [v0.2.0-alpha] - 2024-01-13
-[v0.2.0-alpha](https://github.com/TensionDev/Navigation/releases/tag/v0.2.0-alpha)
+[v0.2.0-alpha](https://github.com/TensionDev/Maritime.Navigation/releases/tag/v0.2.0-alpha)
 
 ### Changed
 - Changed implementation to use TensionDev.CoordinateSystems for location information.
 
 ## [v0.1.0] - 2022-02-09
-[v0.1.0](https://github.com/TensionDev/Navigation/releases/tag/v0.1.0)
+[v0.1.0](https://github.com/TensionDev/Maritime.Navigation/releases/tag/v0.1.0)
 
 ### Added
 - Added Closest Point of Approach and Time to Closest Point of Approach Computation.
 
 ## [v0.1.0-alpha] - 2022-02-04
-[v0.1.0-alpha](https://github.com/TensionDev/Navigation/releases/tag/v0.1.0-alpha)
+[v0.1.0-alpha](https://github.com/TensionDev/Maritime.Navigation/releases/tag/v0.1.0-alpha)
 
 ### Added
 - Added Rhumbline Computation.

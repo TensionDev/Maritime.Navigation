@@ -3,9 +3,9 @@ using TensionDev.CoordinateSystems;
 using TensionDev.Maritime.Navigation;
 using Xunit;
 
-namespace XUnitTestProjectNavigation
+namespace TensionDev.Maritime.Navigation.Tests
 {
-    public class UnitTestGreatCircle : IDisposable
+    public class GreatCircleTests : IDisposable
     {
         private bool disposedValue;
 

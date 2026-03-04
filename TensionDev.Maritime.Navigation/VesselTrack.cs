@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using TensionDev.CoordinateSystems;
 
 namespace TensionDev.Maritime.Navigation
